@@ -1,5 +1,5 @@
 {
-  "default_kernel":["R", "python", "matlab", "octave"],
+  "default_kernel":["R", "python", "Python 3", "matlab", "octave"],
   "settings":{
       "max_participants_in_group": 1,
       "need_to_check_impersonality": false,
@@ -14,7 +14,7 @@
   "works":{
     "task1": {
       "deadline":"2023-10-05",
-      "kernel":["R", "python", "octave", "matlab", "sage"]
+      "kernel":["R", "python", "Python 3", "octave", "matlab", "sage"]
     }
   }
 }
