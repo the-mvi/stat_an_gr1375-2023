@@ -19,6 +19,10 @@
     "task2": {
       "deadline":"2023-12-07",
       "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
+    },
+    "task3": {
+      "deadline":"2023-12-14",
+      "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
     }
   }
 }
